@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/infinite-scroll-hook/static/css/main.e6c13ad2.css",
+    "main.js": "/infinite-scroll-hook/static/js/main.e5254113.js",
+    "index.html": "/infinite-scroll-hook/index.html",
+    "main.e6c13ad2.css.map": "/infinite-scroll-hook/static/css/main.e6c13ad2.css.map",
+    "main.e5254113.js.map": "/infinite-scroll-hook/static/js/main.e5254113.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5254113.js"
+  ]
+}
